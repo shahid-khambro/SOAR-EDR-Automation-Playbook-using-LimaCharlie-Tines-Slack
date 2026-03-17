@@ -1,0 +1,1 @@
+# SOAR-EDR-Automation-Playbook-using-LimaCharlie-Tines-Slack
